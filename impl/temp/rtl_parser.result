@@ -1,0 +1,46 @@
+[
+ {
+  "InstFile" : "C:/Users/Anna/Documents/TangNano/test3/src/test3.v",
+  "InstLine" : 5,
+  "InstName" : "Test3",
+  "ModuleFile" : "C:/Users/Anna/Documents/TangNano/test3/src/test3.v",
+  "ModuleLine" : 5,
+  "ModuleName" : "Test3",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Anna/Documents/TangNano/test3/src/test3.v",
+    "InstLine" : 40,
+    "InstName" : "pll1",
+    "ModuleFile" : "C:/Users/Anna/Documents/TangNano/test3/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "C:/Users/Anna/Documents/TangNano/test3/src/test3.v",
+    "InstLine" : 54,
+    "InstName" : "your_instance_name",
+    "ModuleFile" : "C:/Users/Anna/Documents/TangNano/test3/src/coords/gowin_prom/coords_rom.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "coords_rom"
+   },
+   {
+    "InstFile" : "C:/Users/Anna/Documents/TangNano/test3/src/test3.v",
+    "InstLine" : 87,
+    "InstName" : "xvga_test_inst",
+    "ModuleFile" : "C:/Users/Anna/Documents/TangNano/test3/src/test3.v",
+    "ModuleLine" : 211,
+    "ModuleName" : "xvga_test",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Anna/Documents/TangNano/test3/src/test3.v",
+      "InstLine" : 368,
+      "InstName" : "font_rom",
+      "ModuleFile" : "C:/Users/Anna/Documents/TangNano/test3/src/font16/font16.v",
+      "ModuleLine" : 9,
+      "ModuleName" : "font16_rom"
+     }
+    ]
+   }
+  ]
+ }
+]

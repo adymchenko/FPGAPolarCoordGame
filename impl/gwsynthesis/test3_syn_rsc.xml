@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="Test3" Register="76" Alu="65" Lut="18">
+    <SubModule name="pll1"/>
+    <SubModule name="your_instance_name" Bsram="1"/>
+    <SubModule name="xvga_test_inst" Register="126" Alu="51" Lut="106">
+        <SubModule name="font_rom" Bsram="1"/>
+    </SubModule>
+</Module>

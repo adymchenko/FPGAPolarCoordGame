@@ -1,0 +1,28 @@
+{
+ "Files" : [
+  {
+   "Path" : "C:/Users/Anna/Documents/TangNano/test3/src/gowin_rpll/gowin_rpll.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Anna/Documents/TangNano/test3/src/test3.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Anna/Documents/TangNano/test3/src/font16/font16.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Anna/Documents/TangNano/test3/src/coords/gowin_prom/coords_rom.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/Anna/Documents/TangNano/test3/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

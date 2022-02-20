@@ -1,0 +1,15 @@
+[General]
+ipc_version=4
+file=coords_rom
+module=coords_rom
+target_device=gw1n1-004
+type=ram_prom
+version=1.0
+
+[Config]
+DEPTH=16
+LANG=0
+MEM_FILE=../../coords.mi
+READ=0
+RESET_MODE=true
+WIDTH=36

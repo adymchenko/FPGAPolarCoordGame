@@ -1,0 +1,10 @@
+-d C:\Users\Anna\Documents\TangNano\test3\impl\gwsynthesis\test3.vg
+-p GW1N-1-QFN48-6
+-pn GW1N-LV1QN48C6/I5
+-cst C:\Users\Anna\Documents\TangNano\test3\src\test3.cst
+-cfg C:\Users\Anna\Documents\TangNano\test3\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
